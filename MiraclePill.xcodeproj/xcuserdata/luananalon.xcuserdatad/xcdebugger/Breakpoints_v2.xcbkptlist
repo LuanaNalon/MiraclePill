@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "273A981B-7004-4546-994C-ED368754F7D2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86511C8E-FFBB-4122-BCA4-A3A05CDF49F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MiraclePill/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "86511C8E-FFBB-4122-BCA4-A3A05CDF49F0 - 774f9de94f35548d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePill.ViewController.__deallocating_deinit"
+                  moduleName = "MiraclePill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SSD_luana/IOS_Course/IOS_Course/MiraclePill/MiraclePill/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "86511C8E-FFBB-4122-BCA4-A3A05CDF49F0 - d7b4a76255686073"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePill.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MiraclePill.ViewController"
+                  moduleName = "MiraclePill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SSD_luana/IOS_Course/IOS_Course/MiraclePill/MiraclePill/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "86511C8E-FFBB-4122-BCA4-A3A05CDF49F0 - 9f2ecd558e862973"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePill.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MiraclePill.ViewController"
+                  moduleName = "MiraclePill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SSD_luana/IOS_Course/IOS_Course/MiraclePill/MiraclePill/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "201">
+               </Location>
+               <Location
+                  uuid = "86511C8E-FFBB-4122-BCA4-A3A05CDF49F0 - 77fe54f36d216004"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePill.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MiraclePill.ViewController&gt;"
+                  moduleName = "MiraclePill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SSD_luana/IOS_Course/IOS_Course/MiraclePill/MiraclePill/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "86511C8E-FFBB-4122-BCA4-A3A05CDF49F0 - 877483681989df42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePill.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MiraclePill.ViewController&gt;"
+                  moduleName = "MiraclePill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SSD_luana/IOS_Course/IOS_Course/MiraclePill/MiraclePill/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
